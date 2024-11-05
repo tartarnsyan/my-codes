@@ -1,0 +1,5 @@
+E:/Documents/clion/else/1.my_exam/cmake-build-debug/CMakeFiles/1_my_exam.dir
+E:/Documents/clion/else/1.my_exam/cmake-build-debug/CMakeFiles/2.dir
+E:/Documents/clion/else/1.my_exam/cmake-build-debug/CMakeFiles/3.dir
+E:/Documents/clion/else/1.my_exam/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/Documents/clion/else/1.my_exam/cmake-build-debug/CMakeFiles/rebuild_cache.dir

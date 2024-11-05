@@ -1,0 +1,4 @@
+C:\Users\29831\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=C:/Users/29831/AppData/Local/Programs/CLion/bin/ninja/win/x64/ninja.exe -G Ninja -S E:\Documents\clion\else\1.my_exam -B E:\Documents\clion\else\1.my_exam\cmake-build-debug
+-- Configuring done (0.8s)
+-- Generating done (0.0s)
+-- Build files have been written to: E:/Documents/clion/else/1.my_exam/cmake-build-debug
